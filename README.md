@@ -1,0 +1,1 @@
+An Odin Project to practice HTML basics, demonstrate that I have learned how to set up a git directory, add text, images, lists, and links to a website using HTML.
