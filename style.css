@@ -3,6 +3,11 @@
 * {
     font-family: Verdana, Tahoma, sans-serif;
 }
+
+h1, h2 {
+    color: white;
+}
+
 h1 {
     background-color: #B38D97;
     text-align: center;
@@ -11,6 +16,9 @@ h2 {
     background-color: #D5ACA9;
 }
 
+p, ul, ol, a {
+    font-size: 20px;
+}
 .mainimage {
     height: auto;
     width: 650px;
@@ -22,5 +30,6 @@ h2 {
 
 .container {
     background-color: #EBCFB2;
+    color: white;
     border-radius: 24px;
 }
